@@ -59,4 +59,4 @@ IDE location asked during the installation refers to the .ini file. In mac, `App
 
 After reopening STS and cleaning the project, rebuild should be successful. 
 
-In order to run the application, from Gradle Tasks menu, select application->bootRun. The app will be running on localhost:8080
+In order to run the application, from Gradle Tasks menu, select `application->bootRun`. The app will be running on `localhost:8080`
